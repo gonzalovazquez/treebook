@@ -3,3 +3,9 @@ gonzalo:
   last_name: "Vazquez"
   email: "gonzalo.segura1@gmail.com"
   profile_name: "gvazquez"
+
+ricardo:
+  first_name: "Ricardo"
+  last_name: "Vazquez"
+  email: "ricardo.segura1@gmail.com"
+  profile_name: "rvazquez"
